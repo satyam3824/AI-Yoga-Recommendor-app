@@ -1,3 +1,7 @@
+🔗 Live App: [AI Yoga Recommendor](https://app-gemini-yoga-recomendor.streamlit.app/)
+
+
+
 # streamlit-gemini-yoga-recomendation
 # 🧘‍♀️ AI Yoga Recommender App
 
