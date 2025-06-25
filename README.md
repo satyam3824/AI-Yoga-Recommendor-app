@@ -2,7 +2,7 @@
 
 
 
-# streamlit-gemini-yoga-recomendation
+# streamlit-gemini-yoga-recommendor
 # 🧘‍♀️ AI Yoga Recommender App
 
 A personalized yoga routine generator and AI-powered assistant built using **Streamlit**, **Gemini Pro/Flash (Google Generative AI)**, and **Python**.
